@@ -1,0 +1,19 @@
+<!doctype html>
+<head>
+  <title> Jacqueline's Perez</title>
+  <link href="style.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <img id="profile" src="images/scripted_logo_orange.png">
+    <h1> Jacqueline's Portfolio</h1>
+    <ul>
+      <li><a class="nav" href="">Home</a></li>
+      <li><a class="nav" href="">About Me</a></li>
+      <li><a class="nav" href="">Background</a></li>
+    </ul>
+  </header>
+ 
+</body>
